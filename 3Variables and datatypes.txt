@@ -1,0 +1,31 @@
+1) Variable is a type of memory like a container in which we can store data.
+
+2) Datatype tells about which type of data should go in variable.
+
+3) # Variable is a name which we assign to storage area.
+    e.g., int=integer
+          char=character
+   # Declared by writing 'type variable_name;'
+   # Initialized and declared by 'type variable_name = value;'
+
+4) Rules for defining a variable in C:
+    # Can contain alphabets, digits and underscore.
+    # A variable name can start with an alphabet and underscore only.
+    # Can't start with a digit.
+    # No whitespace % reserved keywords is allowed.
+    # e.g., int harry,
+            float harry123,
+            char _harry34, etc.
+
+5) FLOW OF A C PROGRAM:
+    i]Processing
+    ii]Compilation
+    iii]Assembly
+    iv]Linking
+    v]Loading
+
+6) Data types in C
+    # Basic data type : int, char, float, double
+    # Derived data type : array, pointer, structure, union
+    # Enumeraion data type : emum
+    # Void data type : void  

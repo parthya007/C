@@ -1,0 +1,19 @@
+1) Program in C language is made of tokens.
+    Tokens: Parts which makes up the program in C i.e basic building blocks. 
+
+2) Termination of every statement in C ends with a semicolon.
+
+3) Keywords :
+        These are the reserved words in C.
+        There are 32 keywords in C as follows - 
+        auto        double      int         struct 
+        break       else        long        switch  
+        case        enum        register    typedef
+        char        extern      return      union
+        const       float       short       unsigned
+        continue    for         signed      void
+        default     goto        sizeof      volatile
+        do          if          static      while
+        
+4) Minimum one wide space should present between two tokens.
+        i.e., return<space>0;
